@@ -9,6 +9,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hermesoncostta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hermesoncostta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Tweet
-[![](https://gtce.itsvg.in/api?username=hermesoncostta)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
